@@ -13,3 +13,4 @@ terraform apply
 ```
 terraform plan
 ```
+Keep in mind that this only creates compute resources, it does not create the network.
