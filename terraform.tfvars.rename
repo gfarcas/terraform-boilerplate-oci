@@ -1,0 +1,8 @@
+compartment_id = ""
+tenancy_ocid = ""
+user_ocid = "" 
+private_key_path = ""
+fingerprint = ""
+region = ""
+source_id = ""
+subnet_id = ""
